@@ -1,0 +1,9 @@
+
+Git status : print the changes of change repository with owner status.
+Git init : it initilizies the git repositary. 
+Git add command.txt : add file on local git server for staging.
+Git checkout -- command.txt : file to discard in the working directory. 
+Git commit * : commit everything available on staging server.
+Git commit -m “message” :it will add message with particular commit.
+Git diff command.txt
+
