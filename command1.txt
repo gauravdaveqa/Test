@@ -1,0 +1,3 @@
+
+Git status : print the changes of change repository with owner status.
+Git init : 
